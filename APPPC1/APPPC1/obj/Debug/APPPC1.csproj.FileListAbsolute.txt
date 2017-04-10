@@ -1,0 +1,6 @@
+C:\Users\piero\Documents\Visual Studio 2017\Projects\RepositorioPruebas\APPPC1\APPPC1\bin\Debug\APPPC1.exe.config
+C:\Users\piero\Documents\Visual Studio 2017\Projects\RepositorioPruebas\APPPC1\APPPC1\bin\Debug\APPPC1.exe
+C:\Users\piero\Documents\Visual Studio 2017\Projects\RepositorioPruebas\APPPC1\APPPC1\bin\Debug\APPPC1.pdb
+C:\Users\piero\Documents\Visual Studio 2017\Projects\RepositorioPruebas\APPPC1\APPPC1\obj\Debug\APPPC1.csprojResolveAssemblyReference.cache
+C:\Users\piero\Documents\Visual Studio 2017\Projects\RepositorioPruebas\APPPC1\APPPC1\obj\Debug\APPPC1.exe
+C:\Users\piero\Documents\Visual Studio 2017\Projects\RepositorioPruebas\APPPC1\APPPC1\obj\Debug\APPPC1.pdb
